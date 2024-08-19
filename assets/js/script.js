@@ -30,15 +30,17 @@ const resetGame = () => {
 
 boxes.forEach((box) => {
     box.addEventListener("click", () => {
-        
+      //**turn of player O */  
         if (turnO) {
             box.innerText = "O";
             turnO = false; 
          } else {
+             //**turn of player O */ 
             box.innerText = "X";
             turnO = true;
          }
         box.disabled = true;
+
         checkWinner();
 
     });
@@ -71,7 +73,7 @@ const checkWinner = () => {
         let pos2Val = boxes[pattern[1]].innerText;
         let pos3Val = boxes[pattern[2]].innerText;
 
-        if (pos1Val != "" && pos2Val != "") {
+        if (pos1Val != "" && pos2Val != "" && pos3Val !="") {
             if (pos1Val === pos2Val && pos2Val === pos3Val) {
                 showWinner(pos1Val);
                 
