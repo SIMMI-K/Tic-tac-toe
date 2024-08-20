@@ -38,7 +38,26 @@ Mobile page view
 
 <img src="assets/images/mobile 1.PNG" alt="wireframe of mobile page">
 
-<strong>User Stories</strong>
+## User Stories
+
+
+## Validator Testing 
+
+For HTML validation https://validator.w3.org/
+
+<img src="assets/images/html validator.PNG" alt="html validation screenshot">
+
+For CSS validation  https://jigsaw.w3.org/css-validator/
+
+<img src="assets/images/css validator.PNG" alt="css validation screenshot">
+
+
+## Deployment
+
+Site successfully deployed on https://simmi-k.github.io/Tic-tac-toe/
+
+
+## Credits 
 
 
 
