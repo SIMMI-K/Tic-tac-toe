@@ -1,5 +1,6 @@
 ### Project Title
-Tic Tac Toe Game
+## Tic Tac Toe Game
+
 Tic Tac Toe, also known as Noughts and Crosses, is a simple and classic two-player game that has several key features:
 
 <img src="assets/images/am i responsive.PNG" alt="am i responsive page">
