@@ -65,6 +65,10 @@ For CSS validation  https://jigsaw.w3.org/css-validator/
 
 <img src="assets/images/css validator.PNG" alt="css validation screenshot">
 
+For JAVASCRIPT validation https://jshint.com/
+
+<img src="assets/images/js validator.PNG" alt="Javascript validation screenshot">
+
 
 ## Deployment
 
