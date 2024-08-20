@@ -2,6 +2,8 @@
 Tic Tac Toe Game
 Tic Tac Toe, also known as Noughts and Crosses, is a simple and classic two-player game that has several key features:
 
+<img src="assets/images/am i responsive.PNG" alt="am i responsive page">
+
 ## Features 
 1. Game Board:
 Grid Layout: The game is played on a 3x3 grid, making up 9 squares in total.
@@ -23,7 +25,7 @@ Restart Option: After a game ends, players can reset the board to play again.
 Three in a Row: A player wins if they can align three of their marks in a row (horizontal, vertical, or diagonal).
 Draw: If the board is full and no player has three marks in a row, the game ends in a draw.
 
-<strong>Wire Frames</strong>
+## Wire Frames
 Browser page view
 
 <img src="assets/images/browser.PNG" alt="wireframe of browser page">
@@ -39,6 +41,18 @@ Mobile page view
 <img src="assets/images/mobile 1.PNG" alt="wireframe of mobile page">
 
 ## User Stories
+
+-As a Player, I want to see a clear and simple game board, so that I can easily understand and interact with the game.
+
+-As a Player, I want to receive a message when the game ends, whether by a win, loss, or draw, so that I am aware of the final result.
+
+-As a Player, I want to start a new game, so that I can play Tic-Tac-Toe from the beginning.
+
+-As a Player, I want to click or tap on a cell to make my move, so that I can play my turn.
+
+## Future Features 
+
+-I wanted to add game draw message content.
 
 
 ## Validator Testing 
@@ -59,6 +73,7 @@ Site successfully deployed on https://simmi-k.github.io/Tic-tac-toe/
 
 ## Credits 
 
+<a href="https://www.youtube.com/results?search_query=tic+tac+toe+tutorial+for+html+css+and+javascript">Online Javascript Tutorials</a>
 
 
-
+<a href="https://miro.com/app/board/uXjVKpSyi4A=/">Basic Wireframes for game</a>
